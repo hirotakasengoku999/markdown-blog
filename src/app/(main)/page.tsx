@@ -1,6 +1,4 @@
 import PostCard from "@/components/PostCard/PostCard";
-import { Link } from "lucide-react";
-import { MdAddTask } from "react-icons/md";
 
 export default function MainPage() {
   return (
